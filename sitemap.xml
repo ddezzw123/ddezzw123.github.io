@@ -3,17 +3,12 @@
 
     <sitemap>
         <loc>http://dadadong.cn/post-sitemap.xml</loc>
-        <lastmod>2018-10-26T08:29:12.500Z</lastmod>
+        <lastmod>2018-10-27T09:09:02.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://dadadong.cn/page-sitemap.xml</loc>
-        <lastmod>2018-10-27T08:10:18.853Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>http://dadadong.cn/tag-sitemap.xml</loc>
-        <lastmod>2018-10-26T08:29:12.500Z</lastmod>
+        <lastmod>2018-10-27T08:10:20.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
